@@ -10,7 +10,7 @@ body {
 
 /* ── Modo escuro (ativado pelo JS) ── */
 body.escuro {
-    background-image: url('caminho-da-sua-imagem.jpg');
+    background-image: url('tumblr_6fba67d25e61bbbd187b7ffaf9960d1d_86e02b92_1280.jpg');
     background-size: cover; /* Faz a imagem cobrir toda a tela */
     background-repeat: no-repeat; /* Evita que a imagem se repita */
     background-position: center; /* Centraliza a imagem */
