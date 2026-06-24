@@ -66,7 +66,10 @@ article {
 body.escuro article {
   body {
     background-image: url('Clearvoid.jpg');
-    background-size: cover; /* Faz a imagem cobrir toda a tela */
+   color: #222222;
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 20px;
     background-repeat: no-repeat; /* Evita que a imagem se repita */
     background-position: center; /* Centraliza a imagem */
   box-shadow: 0 2px 8px rgba(0,0,0,0.3);
