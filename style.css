@@ -65,7 +65,7 @@ article {
 
 body.escuro article {
   body {
-    background-image: url('caminho-da-sua-imagem.jpg');
+    background-image: url('Clearvoid.jpg');
     background-size: cover; /* Faz a imagem cobrir toda a tela */
     background-repeat: no-repeat; /* Evita que a imagem se repita */
     background-position: center; /* Centraliza a imagem */
