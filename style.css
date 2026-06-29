@@ -56,13 +56,11 @@ button:hover {
 
 /* ── Post (article) ── */
 article {
- background-image: url('Clearvoid.jpg');
+<img src="https://github.com" width="200" height="400" />
   border-radius: 10px;
   padding: 24px;
   margin-bottom: 24px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-   background-repeat: no-repeat; /* Evita que a imagem se repita */
-    background-position: center; /* Centraliza a imagem */
 }
 
 body.escuro article {
